@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the late action of the New-Englanders under the command of Sir William Phips against the French at Canada sent in a letter from Major Thomas Savage of Boston in New-England (who was present at the action) to his brother Mr. Perez Savage in London : together with the articles of war composed and agreed upon for that purpose.</title>
+            <author>Savage, Thomas, 1640-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62258</idno>
+            <idno type="STC">Wing S771</idno>
+            <idno type="STC">ESTC R8009</idno>
+            <idno type="EEBO-CITATION">11902864</idno>
+            <idno type="OCLC">ocm 11902864</idno>
+            <idno type="VID">50607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the late action of the New-Englanders under the command of Sir William Phips against the French at Canada sent in a letter from Major Thomas Savage of Boston in New-England (who was present at the action) to his brother Mr. Perez Savage in London : together with the articles of war composed and agreed upon for that purpose.</title>
+                  <author>Savage, Thomas, 1640-1705.</author>
+               </titleStmt>
+               <extent>12, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Jones ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This indented bill of ten shillings ...", p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Phips, William, --  Sir, 1651-1695.</term>
+               <term>Québec Expedition, 1690.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50607:1"/>
+            <pb facs="tcp:50607:1"/>
+            <p>AN ACCOUNT OF THE LATE ACTION OF THE New-Englanders, Under the Command of Sir <hi>WILLIAM PHIPS,</hi> Againſt the FRENCH AT CANADA.</p>
+            <p>Sent in a Letter from Major <hi>Thomas Savage</hi> of <hi>Boſton</hi> in <hi>New-England,</hi> (who was preſent at the Action) to his Brother Mr. <hi>Perez Savage</hi> in <hi>London.</hi>
+            </p>
+            <p>Together with the Articles of War compoſed and agreed upon for that purpoſe.</p>
+            <p>
+               <hi>Licenſed</hi> April 13. 1691.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Jones</hi> at the <hi>White Horſe</hi> without <hi>Temple-Bar,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50607:2"/>
+            <pb n="3" facs="tcp:50607:2"/>
+            <opener>
+               <dateline>
+                  <hi>Boſton,</hi> 
+                  <date>
+                     <hi>Feb.</hi> 2. 1690/1.</date>
+               </dateline>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>AS for News, here is very little, only about our De<g ref="char:EOLhyphen"/>featment at <hi>Canada;</hi> and leaſt ſome ill Tongues ſhould abuſe any with you, this will give you a brief Narrative of it. We went from <hi>Boſton</hi> Thirty two Ships, and other Veſſels, with about 2000 Men, with four Months Proviſion, and Ammunition, little enough, but had not One Man for a Pilot. When we came to the River, (which we had a hundred Leagues to go up, before we came into the River, which was the occaſion of our having a long Paſſage, but at length we got up to it;) a Council was call'd, to think what was beſt to be done. It was agreed, That the Soldiers ſhould be put aſhore upon a Beach about two Miles from the Town, and to get as near the Town as we could, and to Encamp that night, for there was a River between us and the Town, that was Knee deep at low Water, which we were to go over to the Town: and in the night they were to ſend in ſome ſmall Veſſels that had Guns, with Ammunition and Proviſion for us, and to bring our Field-pieces aſhore with them, to ſecure our Paſſage over the River; and when we were over the River, then the four great Ships ſhould fall upon the Town to Batter it. Accor<g ref="char:EOLhyphen"/>dingly we landed, I being the firſt Field-Officer aſhore. We landed about 1200 Men, and as ſoon as we came aſhore, at the ſide of the Beach, was a<note n="*" place="margin">A Bog over<g ref="char:EOLhyphen"/>grown with Wood.</note> Swamp, where lay an Ambuſcade of about 600 French, who gall'd us at our landing, but our Men running very briskly on them, beat up their Ambuſcade, and followed them a great way; all our Men in their landing, waded ſome up to their middle, none
+<pb n="4" facs="tcp:50607:3"/>leſs than to their Knees. By that we had Rallied the Sun was near ſet; ſo we marched about half a Mile from the River, and ſo encamped. Our Men had ſpent the greateſt part of our Ammunition in this Skirmiſh, having taken aſhore with them; about three quarters of a Pound of Powder a Man, and about fifteen or eighteen Shot, and but two Biskets a Man; and the reaſon why they carried no more was, becauſe the ſmall Veſſels were to carry it into the River that night. We had in this Skirmiſh about five Men killed outright, and about twenty Men wounded. About midnight they ſent us aſhore ſix Field-pieces, about 800 Pound apiece, which we could not tell what to do with, it being a Marſhy place, and ſeveral ſmall Gullies to go over. We ſent aboard for Ammunition and Proviſion, but they ſent us half a Barrel of Powder, which what that was you may judge, amongſt near 1200 Men, and ſent no Proviſion. We were no ſooner ingaged at our coming aſhore, but contrary to Orders, thoſe four Ships of War, as they called them, wayed their Anchors, and fell to Battering the Town<note n="*" place="margin">At Random.</note>, and there ſpent the greateſt part of their Ammunition by that time they got back: the Admiral being, as they ſay, forced to leave their beſt Cable and Anchor behind him and get back again. We met with ſeveral Skirmiſhes from the Enemy while we were aſhore, but we received little Hurt. We had ſome that we took informed us, that if we had come but four days ſooner, they had not above 600 Men in Town, but being ſo long in the River before we got up, they had notice of us, and had ſent for all their Strength thither, ſo that there was now in the Town 3000 Men, and eight hundred that were near us in Swamps and Woods, to keep us continually alarmed. But ſending aboard often to ſee to get ſome Victuals, for we could meet with little aſhore, the Enemy having drove their Cattle into the Woods, they at length ſent us word that they had no more Ammunition
+<pb n="5" facs="tcp:50607:3"/>to ſpare, but ſent us about a Bisket Cake a Man, and ordered that we ſhould come aboard again, (for they under<g ref="char:EOLhyphen"/>ſtood that was not a good place to ſet upon the Town, being a very ſtrong place, Walled all round, and a Battery of Guns at our coming over the River,) and did ſend fifty Seamen to look after the ſix Field-pieces. At night we began to go on board, and I with my Regiment was to go aboard firſt, by the Lieutenant General's Order, be<g ref="char:EOLhyphen"/>cauſe we were aſhore firſt. We did ſo, and got well aboard, and by twelve of the Clock were all aboard. But how it came to paſs I know not, but ſome ſay it was the Lieute<g ref="char:EOLhyphen"/>nant General's Fault, but I rather think the Seamens, that was to look after the Guns; but there was five of the Field-pieces left on ſhore. And then when all was on board, becauſe Proviſions was Scarce, we thought good to make the beſt of our way back again. So that we are all well arrived, only two Veſſels caſt away, nine of the Men loſt, one Ship burnt, but ſaved all the Men, and four Veſſels not yet come in, who we believe are beat off the Coaſt<note n="*" place="margin">Not arrived in 5 or 6 Weeks af<g ref="char:EOLhyphen"/>ter the Fleet came to <hi>Boſton.</hi>
+               </note>. You will without doubt hear many Reflections upon Lieute<g ref="char:EOLhyphen"/>nant General <hi>Walley:</hi> but he is not guilty of what they charge him with; but there are ſome, who to make them<g ref="char:EOLhyphen"/>ſelves Faultleſs, lay the Fault upon him, which might be eaſily evinced to a Rational Man. We killed of the French at our coming aſhore above Thirty, as ſome who have made a Computation of what they ſaw in ſeveral places lay dead, ſay. We lay not far from the ſhore, and the General ſent his Boat aſhore<note n="*" place="margin">With an Old French Woman.</note> to Treat about Change of Priſoners, which we did, and changed 17 we had taken<note n="*" place="margin">Amongſt whom was Mr. <hi>Petit</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Old Experienced Officer, lately turned Prieſt, and has been former<g ref="char:EOLhyphen"/>ly in <hi>Boſton.</hi> and well acquainted with the St<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>New-E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gl<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>.</hi>
+               </note>, for 17 Engliſh Priſoners that had been with them a pretty while. Our Priſoners informed us of the Truth of the Quantity of Men in the Town, as is above; and that if we had gone over the River, we had cer<g ref="char:EOLhyphen"/>tainly been deſtroyed; So that I look there was a Providence of God in it; yet if they had ſent Ammunition and Proviſion we had certainly been with them.</p>
+            <closer>
+               <signed>Thomas Savage.</signed>
+            </closer>
+         </div>
+         <div type="orders">
+            <pb n="6" facs="tcp:50607:4"/>
+            <head>At a Council of War held on Board their Majeſties Ship<note place="margin">Their Majeſties have no ſuch Ship in <hi>New-England,</hi> but this Ship be<g ref="char:EOLhyphen"/>longs to Mer<g ref="char:EOLhyphen"/>chants of <hi>Barba<g ref="char:EOLhyphen"/>does.</hi>
+               </note> 
+               <hi>Six-Friends,</hi> Riding at Anchor in <hi>Canada-River,</hi> September <hi>23d. 1690.</hi>
+            </head>
+            <p>
+               <hi>Ordered,</hi>
+            </p>
+            <p n="1">1. THAT the Laws and Ordinances of War paſſed by the General Court of the Maſſachuſets, for the bet<g ref="char:EOLhyphen"/>ter Regulating their Forces; Together with all ſuch addi<g ref="char:EOLhyphen"/>tional Laws and Orders as ſhall now be made and ordain<g ref="char:EOLhyphen"/>ed by this Council at their preſent Seſſion; be forthwith Read and Publiſhed at the Head of each Regiment or Com<g ref="char:EOLhyphen"/>pany of Souldiers, and on Board each and every Ship and Veſſel in their Majeſties Service for this preſent Expedition to <hi>Canada, &amp;c.</hi> And that the ſame be put in Execution ac<g ref="char:EOLhyphen"/>cording to the true intent and meaning thereof.</p>
+            <p n="2">2. That each and every of the aforeſaid Laws and Ordi<g ref="char:EOLhyphen"/>nances of War, and all ſuch other as ſhall from time to time be made and ordain'd by the Council of War, ſhall be Declared and Publiſhed by beat of Drum or ſound of Trum<g ref="char:EOLhyphen"/>pet, or otherwiſe at Diſcretion, at the Head of each Regi<g ref="char:EOLhyphen"/>ment or Company of Souldiers, and on Board each and every Ship and Veſſel in their Majeſties Fleet; and that they be ſo Read and Publiſhed once a Fortnight, or oftner, that ſo none may pretend to be ignorant thereof.</p>
+            <p n="3">3. That whatſoever Perſon that is Engaged in this pre<g ref="char:EOLhyphen"/>ſent Service, ſhall by Words or otherwiſe, Reproach, Slight, or ſhow Diſreſpect to any of his Superiour Officers, ſhall be Puniſhed as the Council of War ſhall ſee cauſe; reſpect being had unto the Circumſtances of Place, Office, Perſon Injuring, and Injured; as alſo the Evil tendency thereof.</p>
+            <pb n="7" facs="tcp:50607:4"/>
+            <p n="4">4. That no Commander or other Perſon, preſume to ſend or ſuffer any Boat whatſoever to be ſent to the Shoar, or any Ship or Veſſel to Land any Men after the firſt Anchor<g ref="char:EOLhyphen"/>ing of the Fleet, otherwiſe than as they ſhall receive Or<g ref="char:EOLhyphen"/>ders from die General or Council of War.</p>
+            <p n="5">5 That whenſoever any men ſhall be ſent on Shoar, ſui<g ref="char:EOLhyphen"/>table Officers ſhall be ſent with them, to Command and Or<g ref="char:EOLhyphen"/>der them, which Officers are to be accountable for their Actions and Behaviours; and alſo are required, to attend the Commands and Directions of their Superiour Officers.</p>
+            <p n="6">6. That it ſhall and may be lawful for any Officer, to ſhoot any Perſon, that ſhall firſt run away from under his Command in time of actual Service, if he cannot be other<g ref="char:EOLhyphen"/>wiſe brought to attend his Duty.</p>
+            <p n="7">7. That if any Regiment, Company of Souldiers, or o<g ref="char:EOLhyphen"/>ther Perſon under Command, ſhall refuſe to Advance for<g ref="char:EOLhyphen"/>ward to charge the Enemy, or ſuch other Service as ſhall be orderly and reaſonably required of him or them, eſpecially if through Fear or Cowardiſe, they ſhall refuſe or ſtay be<g ref="char:EOLhyphen"/>hind, he or they ſhall looſe their Pay, and whole ſhare of Plunder, and be otherwiſe diſgraced, and the Principal Puniſhed according as a Council of War ſhall Deter<g ref="char:EOLhyphen"/>mine.</p>
+            <p n="8">8. That no Perſon whatſoever ſhall give Intelligence, or hold any Correſpondence with the Enemy on pain of Death.</p>
+            <p n="9">9. That whoſoever ſhall cauſeleſly make an Alarm, or needleſly, or wilfully Fire a Gun in the Night, ſhall be put to Death, or ſuffer ſuch grievous puniſhment as a Council of War ſhall inflict.</p>
+            <p n="10">10. That no man force himſelf upon a Sentinel, being called unto three times to ſtand, upon the peril of his Life.</p>
+            <p n="11">11. That if any Souldier or other Perſon, be found Drunk on Duty, or in time of actual Service, he ſhall ſuffer
+<pb n="8" facs="tcp:50607:5"/>Death, or ſuch other grievous puniſhment as the Council of War ſhall determine; Conſideration being had unto the ill Conſequences that hath or might have been by reaſon thereof.</p>
+            <p n="12">12. That all Officers of what degree ſoever, take ſpecial Care, that no Souldier or other Perſon under his Command, drink any <hi>Brandy, Wine,</hi> or other <hi>Strong-Liquor,</hi> at any time to Exceſs, eſpecially in time of Service, and whilſt we are in Danger from the Enemy: They are alſo duly to ſeize and ſecure m order to Try all ſuch as ſhall offend.</p>
+            <p n="13">13. That preſent Quarter be given to thoſe of the Ene<g ref="char:EOLhyphen"/>my that ſhall ask it, according to the Laws of Arms and Nations, if it can be done without hazard.</p>
+            <p n="14">14. That all Perſons whatſoever, carry themſelves as Men and Chriſtians towards all Priſoners, eſpecially ſuch as have been men of Place, Aged Perſons, Women, and Children; and that they preſume not to offer any Rude<g ref="char:EOLhyphen"/>neſs or Uncivility to any Woman or other Perſon, on pain of ſuch puniſhment as the Council of War ſhall order, according to the Circumſtances thereof.</p>
+            <p n="15">15. That whatſoever Souldier or others, that ſhall Fight or Quarrel one with the other in time of Service, ſhall looſe a Months pay, and be otherwiſe puniſhed at the Diſcretion of the Council of War; and whoſoever ſhall ſo Fight or Quarrel at other times, ſhall be puniſhed at the Diſcretion of the Commiſſion-Officers of that Company.</p>
+            <p n="16">16. That no man ſhall Pawn or Exchange his Arms, either in Field or elſewhere, without leave of his Cap<g ref="char:EOLhyphen"/>tain, or diſpoſe of any Arms of others, or any <hi>Ammuniti<g ref="char:EOLhyphen"/>on, Hatchets, Spades, Shovels,</hi> or other Stores or Inſtru<g ref="char:EOLhyphen"/>ments of War, on ſuch Penalties and Puniſhments as a Council of War ſhall order.</p>
+            <p n="17">17. That whoſoever without Conſent as aforeſaid, ſhall Buy, Receive, Exchange, or take to Pawn, any Arms, Ammunition, or Inſtruments of War, ſhall return ſuch
+<pb n="9" facs="tcp:50607:5"/>Arms, Ammunition, and Inſtruments without Satisfaction, or forfeit twice the value thereof, and ſuffer ſuch other pun<g ref="char:EOLhyphen"/>iſhment as a Council of War ſhall appoint.</p>
+            <p n="18">18. That no man without Conſent as aforeſaid, being under Command, preſume to Fire his Gun without Order, on pain of ſuch puniſhment as the Captain or Commiſſion-Officers of that Company ſhall appoint; and that no man preſume at any time needleſly to Fire his Gun without Or<g ref="char:EOLhyphen"/>der, on penalty of Two-Shillings Six-Pence, to be dedu<g ref="char:EOLhyphen"/>cted out of his Wages or Plunder.</p>
+            <p n="19">19. That whoſoever ſhall at any time Seize or take any Plunder, of what kind or Nature ſoever from the Enemy, ſhall forthwith give notice thereof to the General, Lieute<g ref="char:EOLhyphen"/>nant General, or Chief-Officer preſent, with an account thereof, that the ſame may be diſpoſed and ſecured accord<g ref="char:EOLhyphen"/>ing to further Order. And whoſoever ſhall refuſe or neg<g ref="char:EOLhyphen"/>lect ſo to do, ſhall forfeit his ſhare of Plunder, and make Reſtitution of what they ſhall ſo Conceal, Withhold, or Imbezil, and alſo ſuffer ſuch further puniſhment as a Coun<g ref="char:EOLhyphen"/>cil of War ſhall determine.</p>
+            <p n="20">20. That no Perſon whatſoever preſume to Rifle any Ship, Boat, or any other Veſſel, or to break Open, Unlock, Unty, or otherwiſe Undoe, or make Looſe any Cheſt, Trunk, Box, Bale, Bundle, or any other Veſſel wherein Plunder of the Enemy may be, whether on Board, or on Shore, in any Houſe or otherwiſe, but ſhall ſecure the ſame whole and undivided, as the ſame ſhall be found, and bring the ſame to the Chief-Officer then and there preſent. who is to take ſuch further Order therein, as ſhall be ne<g ref="char:EOLhyphen"/>ceſſary upon pain of forfeiting his whole ſhare of Plunder, and ſuffering ſuch further puniſhment as a Council of War ſhall Inflict.</p>
+            <p n="21">21. That no Perſon whatſoever preſume to ſet Fire unto, Burn, Waſte, Deface, or otherwiſe ſpoile any <hi>Fort, Church, Colledge, Houſe, Barn, Ship, Veſſel,</hi> or any other <hi>Goods,
+<pb n="10" facs="tcp:50607:6"/>Proviſions, Wares, Merchandizes,</hi> or <hi>Eſtates</hi> whatſoever, or kill or deſtroy any <hi>Hogs, Cattle,</hi> or any other tame Crea<g ref="char:EOLhyphen"/>ture belonging to the Enemy, without Order from their Captain. Which Captains are required not to give Order for ſo doing without Neceſſity require, (which Neceſſity is to appear ſuch to the Council of War if queſtioned,) But as they ſhall from time to time receive Directions from the General, Lieutenant Gnneral, Major of the Regiment, or Council of War.</p>
+            <p n="22">22. That no Souldier, Seaman, or other Perſon under Command in this preſent Expedition, preſume to Plunder the Enemy in time of Fight, nor whilſt we are in any dan<g ref="char:EOLhyphen"/>ger from the Enemy; nor whilſt they chaſe or purſue the Enemy, nor before they have ſecured themſelves from the Enemy, nor until they have Orders from the Chief-Officers in that preſent Expedition, or at any other time or place then Ordered, or contrary to Articles made with the Ene<g ref="char:EOLhyphen"/>my, and declared on pain of Death, or ſuch other Penalties and Puniſhment as a Council of War ſhall Inflict.</p>
+            <p n="23">23. That the Commiſſion-Officers of each Company, do puniſh all Perſons within their ſeveral Companies reſpe<g ref="char:EOLhyphen"/>ctively, which after Publication hereof, ſhall be found Guil<g ref="char:EOLhyphen"/>ty of Drunkenneſs, Swearing, Curſeing, and neglect of the Worſhip of God, Petty-Thefts, Quarrelling when not in Service, unneceſſary Firing when under Command without Order, not doing Duty, doing Duty Negligently.</p>
+            <closer>Vera Copia <hi>Examined.</hi>
+               <signed>Nath. Barnes Sec. Con. Bel.</signed>
+            </closer>
+            <pb n="11" facs="tcp:50607:6"/>
+         </div>
+         <div type="account">
+            <p>By other Letters from <hi>New-England</hi> are theſe farther Particulars, That the Fleet, for want of Pilots, was nine Weeks getting to <hi>Quebeck,</hi> and that they Landed about 1200 Men, many aboard being Sick of the Small Pox and Feaver: That at the time they Landed, the French had not above five or ſix Hundred Men in the Town; but when they beat up their Ambuſh, and forced the French to retreat towards the Town, had our Men purſued them, they might have entered the Town with them, and made themſelves Maſters thereof; which Miſcarriage is attri<g ref="char:EOLhyphen"/>buted to the Unskilfulneſs, if not Cowardiſe, of their Officers: The Men that were Landed endured great Hardſhips aſhore, it being very Cold Weather, and they had nothing but the Ground for their Lodging, without any Shelter or Cover<g ref="char:EOLhyphen"/>ing. Sir <hi>William</hi> kept Firing againſt the Town, or, as ſome write, the Rocks of <hi>Quebeck,</hi> till he had ſpent almoſt all his Ammunition, and then ſlipt his Cable and fell down, and the other Veſſels followed; they Anchored below the Iſland <hi>Orleans,</hi> and were by Streſs of Weather forced out of the River to Sea and diſperſed. Some Veſſels by Sickneſs were very much diſabled, and thoſe that arrived loſt ſome half, and others more, of their Men: In their return one of their Fire-ſhips was burnt by Accident, and Twelve Men loſt; two other Veſſels caſt away, but the Men ſaved; and the laſt Veſſels that ſailed in <hi>February</hi> paſt from <hi>New-England</hi> ſay, that four of the Fleet was not then Arrived, nor any News of them, in which were about three hundred Men, ſuppoſed to be caſt away, having been about three Months miſſing. After the Return of the Veſſels, many Men died of the Diſtemper, which has Infected the Inhabitants, Spreads and proves very Mortal amongſt them.</p>
+            <pb n="10" facs="tcp:50607:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:50607:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:50607:8" rendition="simple:additions"/>
+            <p>This Expedition has brought the <hi>Colony</hi> of the <hi>Maſſachuſets Bay</hi> above 50000 <hi>l.</hi> in Debt, for Payment whereof the General Court hath laid Grievous Taxes upon the In<g ref="char:EOLhyphen"/>habitants, which they force from thoſe who refuſe to pay. And for the ſatisfying the Clamours of the Soldiers and Sailers, of whom moſt were Preſſed and ſent in this Service. They, upon the return of their Ships from <hi>Canada,</hi> made a Law, Dated at <hi>Boſton</hi> the Tenth of <hi>December</hi> 1690. ordering a Committee of five Perſons, three whereof ſhould be impowered for granting forth Printed Bills (none to be under 5 <hi>s.</hi> nor exceeding the Summ of 5 <hi>l.</hi> in one Bill) by which ſome of the Soldiers and Seamen are paid, and the Colony is thereby engaged to ſatisfie the Value of the ſaid Bills, as the Treaſury ſhall be enabled. But they will not paſs in Trade between Man and Man, nor can theſe poor Soldiers and Seamen get any thing for them to above half their value, they being only uſed to pay Rates with. The Form of which Bills are as herein decyphered.</p>
+            <div type="bill">
+               <pb facs="tcp:50607:8"/>
+               <head>N<hi rend="sup">o</hi> (2161) 10<hi>
+                     <hi rend="sup">s</hi>
+                  </hi>
+               </head>
+               <p>THIS Indented Bill of Ten ſhillings, due from the Maſſachuſets Colony to the Poſſeſſor, ſhall be in value equal to Money, and ſhall be accordingly accepted by the Treaſurer and Receivers, ſubordinate to him in all Publick Payments, and for any Stock at any time in the Treaſury Boſton in New-England, December the 10<hi rend="sup">th</hi>. 1690. By Order of the General Court.</p>
+               <p>
+                  <figure>
+                     <figDesc>seal of the massachusetts bay colony</figDesc>
+                     <head>SIGILLVM:GVB:ET:SOCIET:DE:MATTACHVSETS:BAY:IN:NOVA:ANGLIA</head>
+                     <p>COME:OVER:AND:HELP:US</p>
+                  </figure>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <head>COM<hi rend="sup">tee</hi>.</head>
+                        <item>
+                           <hi>Penn Townſend</hi>
+                        </item>
+                        <item>
+                           <hi>Adam Winthrop</hi>
+                        </item>
+                        <item>
+                           <hi>Tim. Thornton</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:50607:9"/>
+            <head>A Catalogue of Books Printed for and are to be Sold by <hi>Thomas Jones,</hi> at the <hi>White Horſe</hi> with<g ref="char:EOLhyphen"/>out <hi>Temple-Bar.</hi>
+            </head>
+            <div n="folio" type="books">
+               <p>
+                  <hi>TAvernier</hi>'s Travels into <hi>Perſia,</hi> with 40 Copper Cuts, Folio, <hi>Price</hi> 1 <hi>l.</hi> 5 <hi>s.</hi>
+               </p>
+               <p>Sir <hi>John Charden</hi>'s Travels through the Black Seas, Folio, 1 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The Holy Bible in Welſh, Folio.</p>
+            </div>
+            <div n="quarto" type="books">
+               <head>Quarto's.</head>
+               <p>A Sermon Preached before the Queen at <hi>White-hall, January</hi> the 30<hi rend="sup">th</hi>. being the day of the Martyrdom of King <hi>Charles</hi> the Firſt, by the Right Reverend Father in God the Biſhop of St. <hi>Aſaph,</hi> Lord Almoner to their Majeſties. Publiſhed by her Majeſties Command. 6 <hi>d.</hi>
+               </p>
+               <p>A Choice Collection of Leſſons for two and three Treble Flutes. Compoſed by the beſt Maſters of Muſick, and all Engraved upon Copper Plates. 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>A Dalogue between two <hi>Oxford</hi> Schollars. 3 <hi>d.</hi>
+               </p>
+               <p>A Letter to Dr. <hi>Sherlock</hi> in Vindication of that part of <hi>Joſephus</hi>'s Hiſtory, which gives an account of <hi>Judas</hi> the High-Prieſts ſubmitting to <hi>Alexander</hi> the Great, while <hi>Darius</hi> was living, againſt the Anſwer to the Peace, In<g ref="char:EOLhyphen"/>tituled, <hi>Obedience and Submiſſion to the Preſent Government.</hi> The Second Edition. 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>The Souls Deſire after Happineſs, with the Means to attain it, in a plain and familiar Stile.</hi> In Three Parts. 1 <hi>s.</hi>
+               </p>
+               <p>A Congratulatory Poem on His Majeſties Happy Return from <hi>Holland.</hi> By Mr. <hi>Brown.</hi>
+               </p>
+               <pb facs="tcp:50607:9" rendition="simple:additions"/>
+               <p>A Dialogue between the Confederate Princes concerning the Affairs of <hi>Europe.</hi>
+               </p>
+               <p>Dr. <hi>Sherlock</hi>'s Practical Diſcourſe of Death, in Welſh.</p>
+               <p>A Moral Eſſay upon the Soul of Man. In Three Parts.
+<list>
+                     <item>I. The Preference due to the Soul above the Body, from the Reaſon of its Spiritual Immortal Nature.</item>
+                     <item>II. Of our Duties of Religion and Morality, whether towards God, whether towards our Selves, whether to<g ref="char:EOLhyphen"/>wards Man, and of our Duty of all Goſpel Self-denial; which reſult from the manner how our Souls <hi>Are</hi> and <hi>Operate</hi> in our Bodies under the Viſible Empire of God.</item>
+                     <item>III. Concerning our Duties of Time and Eternity, of the preſent Life, and of the Life to come; of the preſent World, and of the World to come; which reſult from the manner how our Souls ought to be out of our Bodies firſt of all; and then in our Spiritualiz'd Bodies, after the Univerſal Reſurrection. 2 <hi>s.</hi> 6 <hi>d.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Lively Oracles given to us: Or, the Chriſtian's Birth-right and Duty, in the Cuſtody and Uſe of the Holy Scripture. The Third Edition. 2 <hi>s.</hi>
+               </p>
+               <p>A Weeks Exerciſe, Preparatory towards a Worthy Re<g ref="char:EOLhyphen"/>ception of the Lord's-Supper in Meditations, Prayers and Ejaculations, before (at) and after the Holy Communion. Alſo Rules and Exerciſes how to live well after it. The Second Edition. 1 <hi>s.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
